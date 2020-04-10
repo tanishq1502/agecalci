@@ -1,1 +1,1 @@
-# agecalci
+This is a simple age calculator
